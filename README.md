@@ -1,2 +1,1 @@
-# Zuccon
-hasn't been invented yet
+# Введите меня в специальность
